@@ -25,6 +25,12 @@ Monte Carlo approximations converge to the exact solution at rate:
 
     error ~ N^{-1/2}
 
+  ⚠️ **Note:** GitHub does not render animations created with `matplotlib.animation.FuncAnimation`.
+
+To view the animation, please run the notebook locally.
+
+A sample output is shown below.
+
 ## Example
 
 ![animation_N](https://github.com/user-attachments/assets/724171df-9008-47c9-b606-479bfd8cf768)
