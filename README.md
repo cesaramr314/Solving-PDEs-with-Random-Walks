@@ -29,7 +29,3 @@ Monte Carlo approximations converge to the exact solution at rate:
 
 ![animation_N](https://github.com/user-attachments/assets/724171df-9008-47c9-b606-479bfd8cf768)
 
-
-```bash
-pip install -r requirements.txt
-jupyter notebook
