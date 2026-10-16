@@ -106,10 +106,6 @@ $$
 
 Multiplying $N$ by 100 reduces the error by roughly a factor of 10. This is the characteristic Monte Carlo rate: slow, but independent of the spatial dimension, which is why probabilistic methods become attractive for high-dimensional problems where grid-based schemes are too expensive.
 
-## Going further
-
-This notebook is a first step into a broad area connecting PDEs and probability: the Feynman–Kac formula for equations with potentials and source terms, diffusions with variable coefficients, boundary value problems via stopped processes, and hydrodynamic limits where macroscopic PDEs emerge from microscopic particle systems.
-
 ## License
 
 See [LICENSE](LICENSE).
